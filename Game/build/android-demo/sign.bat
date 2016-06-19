@@ -1,0 +1,1 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore amine-demo.keystore bin/JNIActivity-release-unsigned.apk aminedemo
